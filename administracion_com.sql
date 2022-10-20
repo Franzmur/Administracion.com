@@ -1,0 +1,1 @@
+SELECT * FROM administracion_com.persona;
